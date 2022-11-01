@@ -21,7 +21,7 @@ def main():
     except Exception:
         print("\nPlease input a valid number.")
 
-    print("\nDone")
+    print("\nDone.")
 
 
 if __name__ == "__main__":
